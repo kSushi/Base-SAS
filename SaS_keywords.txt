@@ -1,0 +1,83 @@
+Statements are lines which ends up with semicolon.;
+
+Options are keywords use for personalize.
+
+Two types of steps are:-
+1.DATA steps.
+2.PROC steps.
+
+DATA steps are used for creating DATASETS(permanent) eg-CREATE in SQL.
+PROC steps are used for viewing output(Temporary) eg-SELECT in SQL.
+
+Keywords:-
+WHERE.
+SUM.
+VAR.
+BY.
+PAGE BY.
+ID.
+SET.
+SORT.
+SET.
+KEEP.
+DROP.
+FREQ.
+MEANS.
+DESCRIPTION.
+CONTENTS.
+LABELS.
+SPLIT.
+FORMAT.
+LENGHT.
+DELETE.
+TABLES.
+TITLES.
+FOOTNOTES.
+CLASS.
+REPORT.
+COLUMN.
+_ALL_
+UPCASE.
+RENAME.
+MODIFY.
+DATASETS.
+IMPORT.
+DATAFILE.
+SHEET.
+MIXED.
+SCANTEXT.
+GETNAMES.
+USEDATE.
+SCANTIME.
+HBAR.
+VBAR.
+PIE.
+GCHART.
+
+Options:-
+NODS.
+NOOBS.
+OUT.
+RENAME.
+ASCENDING.
+DESCENDING.
+IN.
+NOCUM.
+NOPRINT.
+CROSSLIST.
+MAXDEC.
+WD.
+NOWD.
+DATE.
+NODATE.
+LINESIZE.
+PAGESIZE.
+NUMBER.
+NONUMBER.
+PAGENO.
+OPTIONS.
+DISCRETE.
+SUMVAR.
+TYPE.
+RENAME.
+LEVEL.
